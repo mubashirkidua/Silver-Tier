@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "78da58e3258f2b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d64ac3d14aaff0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532df8d3a351f74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/run.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "run"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eed1f2fa3eb3457a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f40b007845bc06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b84a1cde1937e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7da43ac123cd2473",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40cb758cbf69e3df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87d2a25f1312a026",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc471ede6ff012c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76757854af5b3bdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "faf9cb3c317e7096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d5a952e610a3d4a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3bd4145b9c39cc27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7761e325295d713b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e6b84a1cde1937e6",
+  "lastOpenFiles": [
+    "whatsapp_session/Safe Browsing",
+    "whatsapp_session/Default/Network/1a71c21f-eb42-4040-865b-fc3e360921e9.tmp",
+    "whatsapp_session/Default/Network/99027813-ee44-42e1-b831-4980147f48fd.tmp",
+    "whatsapp_session/8c2bbae3-98ba-463f-af84-4e5e60ef3815.tmp",
+    "whatsapp_session/Default/DIPS-wal",
+    "whatsapp_session/Default/Sessions/Session_13420631554358728",
+    "whatsapp_session/Default/e5acc046-b685-491d-a0fa-2b033e6dcaab.tmp",
+    "whatsapp_session/bc29d299-b58d-4a2f-b144-d76e07aba3c2.tmp",
+    "whatsapp_session/Default/Network/41d40483-4b19-4868-b3a9-7b39ba85766d.tmp",
+    "whatsapp_session/Default/Code Cache/js/a79ed946203feb11_0",
+    "whatsapp_session/Default/Code Cache/js/45fefa0df11fe789_0",
+    "Needs_Action/GMAIL_19c055bdea8b63d2_2026-04-09.md",
+    "Needs_Action/GMAIL_19c8b510f001b3a4_2026-04-09.md",
+    "Needs_Action/GMAIL_19cf72232de3eb5e_2026-04-09.md",
+    "Logs/activity_2026-04-09.md",
+    "Needs_Action/GMAIL_19d6928344479f8d_2026-04-09.md",
+    "Inbox/copy.md",
+    "Inbox/book.md",
+    "README.md",
+    "Logs/activity_2026-04-03.md",
+    "Needs_Action/FILE_copy.md",
+    "copy.md",
+    "Needs_Action/FILE_run.md",
+    "Inbox/run.md",
+    "Needs_Action/FILE_book.md",
+    "Plans/book.md",
+    "Needs_Action/FILE_content.md",
+    "Inbox/content.md",
+    "watchers/content.md",
+    "Plans/Orchestrator_Instructions.md",
+    "Skills/Bronze_Skills.md",
+    "Skills/Agent_Skills.md",
+    "Company_Handbook.md",
+    "Dashboard.md",
+    "Welcome.md"
+  ]
+}

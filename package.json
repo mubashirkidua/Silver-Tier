@@ -1,0 +1,22 @@
+{
+  "name": "silver-tier-ai-vault",
+  "version": "0.2.0",
+  "description": "Local-first AI Employee Vault with MCP and Playwright support",
+  "main": "index.js",
+  "scripts": {
+    "start": "python watchers/filesystem_watcher.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "mcp",
+    "obsidian",
+    "playwright"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}

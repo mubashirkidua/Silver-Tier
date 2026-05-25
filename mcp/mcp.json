@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gmail-silver": {
+      "command": "python",
+      "args": ["C:/Users/fff/OneDrive/Desktop/Silver-Tier/mcp/gmail_server.py"],
+      "env": {
+        "PYTHONPATH": "C:/Users/fff/OneDrive/Desktop/Silver-Tier"
+      }
+    }
+  }
+}
